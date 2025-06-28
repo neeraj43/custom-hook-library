@@ -1,0 +1,11 @@
+{
+  "name": "my-hooks-lib",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "description": "Reusable React custom hooks",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
